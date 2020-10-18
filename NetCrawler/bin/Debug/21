@@ -1,0 +1,506 @@
+﻿<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="referrer" content="never" />
+    <meta name="description" content="一面冰川，一面火山。你在资本的寒冬里繁华落尽，而我在市场的浪潮下激流永进。前不久朋友圈还不断地被冠以 “去年拿到A轮的创业公司现在快倒闭完了” 的文章刷屏，另一面，最近摩拜单车一轮又一轮的融资让人不禁" />
+    <meta property="og:description" content="一面冰川，一面火山。你在资本的寒冬里繁华落尽，而我在市场的浪潮下激流永进。前不久朋友圈还不断地被冠以 “去年拿到A轮的创业公司现在快倒闭完了” 的文章刷屏，另一面，最近摩拜单车一轮又一轮的融资让人不禁" />
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>上一家公司倒闭，为什么我又来了创业公司？ - 腾飞（Jesse) - 博客园</title>
+    <link id="favicon" rel="shortcut icon" href="//common.cnblogs.com/favicon.svg" type="image/svg+xml" />
+    
+    <link rel="stylesheet" href="/css/blog-common.min.css?v=kXxbcm7tkkASG2_xwyD6Kw4CzHe0bT3mi0jyCb8YspQ" />
+    <link id="MainCss" rel="stylesheet" href="/skins/simplememory/bundle-simplememory.min.css?v=uknaX_hejnSu-njQgx4Hj1R0JiPLwUhFPUlwWNmWyB4" />
+    <link type="text/css" rel="stylesheet" href="https://www.cnblogs.com/jesse2013/custom.css?v=DB/sw3iTGnXC/2h0J9yhKcfI5&#x2B;k=" />
+    <link id="mobile-style" media="only screen and (max-width: 767px)" type="text/css" rel="stylesheet" href="/skins/SimpleMemory/bundle-SimpleMemory-mobile.min.css" />
+    
+    <link type="application/rss+xml" rel="alternate" href="https://www.cnblogs.com/jesse2013/rss" />
+    <link type="application/rsd+xml" rel="EditURI" href="https://www.cnblogs.com/jesse2013/rsd.xml" />
+    <link type="application/wlwmanifest+xml" rel="wlwmanifest" href="https://www.cnblogs.com/jesse2013/wlwmanifest.xml" />
+    <script>
+        var currentBlogId = 159331;
+        var currentBlogApp = 'jesse2013';
+        var cb_enable_mathjax = false;
+        var isLogined = false;
+        var isBlogOwner = false;
+        var skinName = 'SimpleMemory';
+        var visitorUserId = '';
+    </script>
+        <script>
+            var currentPostDateAdded = '2016-11-10 09:59';
+        </script>
+    <script src="https://common.cnblogs.com/scripts/jquery-2.2.0.min.js"></script>
+    <script src="/js/blog-common.min.js?v=kKx3DBtpvO8r97BzPmHJseQ10fGHkI-ZwMh4FA0eEd0"></script>
+    
+    
+    
+</head>
+<body class="has-navbar">
+    <a name="top"></a> 
+    <div id="top_nav" class="navbar">
+        <nav id="nav_main" class="navbar-main">
+            <ul id="nav_left" class="navbar-list navbar-left">
+                <li class="navbar-branding">
+                    <a href="https://www.cnblogs.com/" title="开发者的网上家园"><img src="/images/logo.svg?v=R9M0WmLAIPVydmdzE2keuvnjl-bPR7_35oHqtiBzGsM" alt="博客园Logo" /></a>
+                </li>
+                <li><a href="/" onclick="ga('send', 'event', 'Link', 'click', 'skin-navbar-sitehome')">首页</a></li>
+                <li><a href="https://news.cnblogs.com/" onclick="ga('send', 'event', 'Link', 'click', 'skin-navbar-news')">新闻</a></li>
+                <li><a href="https://q.cnblogs.com/" onclick="ga('send', 'event', 'Link', 'click', 'skin-navbar-q')">博问</a></li>
+                <li><a id="nav_brandzone" href="https://brands.cnblogs.com/" onclick="ga('send', 'event', 'Link', 'click', 'skin-navbar-brands')">专区</a></li>
+                <li><a href="https://ing.cnblogs.com/" onclick="ga('send', 'event', 'Link', 'click', 'skin-navbar-ing')">闪存</a></li>
+                <li><a href="https://edu.cnblogs.com/" onclick="ga('send', 'event', 'Link', 'click', 'skin-navbar-edu')">班级</a></li>
+            </ul>
+            <ul id="nav_right" class="navbar-list navbar-right">
+                <li>
+                    <form id="zzk_search" class="navbar-search" action="https://zzk.cnblogs.com/s" method="get">
+                        <input name="w" id="zzk_search_input" placeholder="代码改变世界" type="text" tabindex="3" />
+                        <button type="submit" id="zzk_search_button">
+                            <img src="/images/aggsite/search.svg" alt="搜索" />
+                        </button>
+                    </form>
+                </li>
+                <li id="navbar_login_status" class="navbar-list">
+                    <a id="navblog-myblog-icon" class="navbar-user-info navbar-blog" href="https://passport.cnblogs.com/GetBlogApplyStatus.aspx" alt="我的博客" title="我的博客">
+                        <img id="myblog_icon" class="navbar-icon" src="/images/aggsite/myblog.svg" alt="我的博客" />
+                    </a>
+                    <a class="navbar-user-info navbar-message navbar-icon-wrapper" href="https://msg.cnblogs.com/" alt="短消息" title="短消息">
+                        <img id="msg_icon" class="navbar-icon" src="/images/aggsite/message.svg?v=oS4PkibyMjZ9rGD5XAcLt99uW_s76Javy2up4dbnZNY" alt="短消息" />
+                        <span id="msg_count" style="display: none"></span>
+                    </a>
+                    <div id="user_info" class="navbar-user-info dropdown">
+                        <a class="dropdown-button" href="https://home.cnblogs.com/">
+                            <img id="user_icon" class="navbar-avatar" src="/images/aggsite/avatar-default.svg" alt="用户头像" />
+                        </a>
+                        <div class="dropdown-menu">
+                            <a id="navblog-myblog-text" href="https://passport.cnblogs.com/GetBlogApplyStatus.aspx">我的博客</a>
+                            <a href="https://home.cnblogs.com/">我的园子</a>
+                            <a href="https://account.cnblogs.com/settings/account">账号设置</a>
+                            <a href="javascript:void(0)" onclick="logout();">退出登录</a>
+                        </div>
+                    </div>
+                    <a class="navbar-anonymous" href="https://account.cnblogs.com/signup/">注册</a>
+                    <a class="navbar-anonymous" href="https://account.cnblogs.com/signin/?returnUrl=https://www.cnblogs.com/">登录</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+
+    <div id="page_begin_html">
+        <link rel="stylesheet" type="text/css" href="https://files.cnblogs.com/jesse2013/mystle.css?v=10132013.10">
+    </div>
+    
+<!--done-->
+<div id="home">
+<div id="header">
+	<div id="blogTitle">
+        <a id="lnkBlogLogo" href="https://www.cnblogs.com/jesse2013/"><img id="blogLogo" src="/skins/custom/images/logo.gif" alt="返回主页" /></a>		
+		
+<!--done-->
+<h1><a id="Header1_HeaderTitle" class="headermaintitle HeaderMainTitle" href="https://www.cnblogs.com/jesse2013/">腾飞（Jesse）</a>
+</h1>
+<h2>
+
+</h2>
+
+
+
+
+		
+	</div><!--end: blogTitle 博客的标题和副标题 -->
+	<div id="navigator">
+		
+<ul id="navList">
+<li>
+</li>
+<li>
+<a id="blog_nav_myhome" class="menu" href="https://www.cnblogs.com/jesse2013/">
+首页</a>
+</li>
+<li>
+
+
+</li>
+<li>
+<a id="blog_nav_contact" class="menu" href="https://msg.cnblogs.com/send/%E8%85%BE%E9%A3%9E%EF%BC%88Jesse%29">
+联系</a></li>
+<li>
+<a id="blog_nav_rss" class="menu" href="javascript:void(0)" data-rss="https://www.cnblogs.com/jesse2013/rss/">
+订阅</a>
+<!--<partial name="./Shared/_XmlLink.cshtml" model="Model" /></li>--></li>
+<li>
+<a id="blog_nav_admin" class="menu" href="https://i.cnblogs.com/">
+管理</a>
+</li>
+</ul>
+
+
+		<div class="blogStats">
+			
+			<span id="stats_post_count">随笔 - 
+46&nbsp; </span>
+<span id="stats_article_count">文章 - 
+0&nbsp; </span>
+<span id="stats-comment_count">评论 - 
+3695</span>
+
+			
+		</div><!--end: blogStats -->
+	</div><!--end: navigator 博客导航栏 -->
+</div><!--end: header 头部 -->
+
+<div id="main">
+	<div id="mainContent">
+	<div class="forFlow">
+		<div id="post_detail">
+    <!--done-->
+    <div id="topics">
+        <div class="post">
+            <h1 class = "postTitle">
+                
+<a id="cb_post_title_url" class="postTitle2 vertical-middle" href="https://www.cnblogs.com/jesse2013/p/code-for-the-world.html">
+    <span>上一家公司倒闭，为什么我又来了创业公司？</span>
+    
+
+
+</a>
+
+            </h1>
+            <div class="clear"></div>
+            <div class="postBody">
+                
+<div id="cnblogs_post_body" class="blogpost-body">
+    <div id="magicdomid2" class="gutter-author-150938 locate lineguid-3GoRX3naVCXAPYd7 text-indent" data-author-name="Jesse"><span class="author-150938 font-size-3">一面冰川，一面火山。你在资本的寒冬里<span class="author-150938 font-color-38 font-size-3">繁华落尽<span class="author-150938 font-color-15 font-size-3">，<span class="author-150938 font-size-3">而我在市场的浪潮下激流永进。前不久朋友圈还不断地被冠以 “去年拿到A轮的创业公司现在快倒闭完了” 的文章刷屏，另一面，最近<span class="author-150938">摩拜单车一轮又一轮的融资让人不禁感叹：“这还是不是资本寒冬了！”</span></span></span></span></span></div>
+<div id="magicdomid3">&nbsp;</div>
+<div id="magicdomid4" class="gutter-author-150938 locate lineguid-ILK5n495r5VdI055 text-indent" data-author-name="Jesse"><span class="author-150938 font-color-35">获得融资的新闻时常还有，但是，那些怀着改变世界的心愿喊着”我要去创业的人“是真的少了很多。在这个时候还毅然选择投身创业的人，是真的一定要创业的人。你们知道我<span class="author-2165680 font-color-35">说的是<span class="author-150938 font-color-35">冯老师？</span></span></span></div>
+<div class="gutter-author-150938 locate lineguid-ILK5n495r5VdI055 text-indent" data-author-name="Jesse">&nbsp;</div>
+<div class="gutter-author-150938 locate lineguid-ILK5n495r5VdI055 text-indent" data-author-name="Jesse">
+<h1 id="magicdomid5" class="gutter-author-150938 heading-2 locate lineguid-dLptNhswVgF7FGFV" data-author-name="Jesse"><span class="author-150938">不是每个人当下都适合创业</span></h1>
+<div id="magicdomid6" class="gutter-author-150938 locate lineguid-B3lzoFFm2F1QO1vW text-indent" data-author-name="Jesse"><span class="author-150938">最近我面试了几个前创业者，他们都很年轻，90后居多。他们做过了“CEO”、“CTO”之后，又回过头来重新找工作。在15年中间的鼎盛时期，几乎所有的媒体，甚至国家都在鼓吹创业，一大批刚刚毕业的学生就这样被卷进浪潮中。</span></div>
+<div id="magicdomid7">&nbsp;</div>
+<div id="magicdomid8" class="gutter-author-150938 locate lineguid-kTRKyEqrTPI9BNsK lineguid-CtxiiHy3KbYX4bqj text-indent" data-author-name="Jesse"><span class="author-150938">有一位从牛津读完研回国创业的男生<span class="author-2165680">，<span class="author-150938">想重新找一份基本的编程工作，主要是觉得自己还年轻不想丢掉技术，各方面的技能都补齐之后再考虑创业。 考虑到对数据可视化感兴趣<span class="author-2165680 font-size-3">，<span class="author-150938">所以想从前端作为切入点，愿意只拿一半的薪水工作，在试用期结束之后重新考核。他很有天份、聪明，基本功也扎实，并且能够重新脚蹋实地的做一些事情<span class="author-2165680">。<span class="author-150938">我们很愿意给予这样的机会。</span></span></span></span></span></span></span></div>
+<div id="magicdomid9">&nbsp;</div>
+<div id="magicdomid10" class="gutter-author-150938 locate lineguid-D1wfMAgwkes1haEN text-indent" data-author-name="Jesse"><span class="author-150938 font-size-3">遇到前后反差比较大的人，我都会问他当下的感受<span class="author-2165680 font-size-3">。<span class="author-150938 font-size-3">经历磨练心智<span class="author-2165680 font-size-3">，<span class="author-150938 font-size-3">同时看待事情的角度<span class="author-2165680 font-size-3">会<span class="author-2165680 font-color-35 font-size-3">更<span class="author-150938 font-color-35 font-size-3">完整。人<span class="author-2165680 font-color-35 font-size-3">与<span class="author-150938 font-color-35 font-size-3">人之间的差距在经历失败时<span class="author-2165680 font-color-35 font-size-3">会更加鲜明。<span class="author-150938 font-color-14 font-size-3">我<span class="author-150938 font-size-3">也<span class="author-2165680 font-size-3">曾有过<span class="author-150938 font-size-3">失败之后依然看不清方向还不知道自己想要什么<span class="author-2165680 font-size-3">的混沌阶段<span class="author-150938 font-size-3">。我不太认同“创业让人成长” 这句话，因为创业本身<span class="author-2165680 font-size-3">就有很多<span class="author-150938 font-size-3">运气成份，不同的人创业所面临的挑战也不一样，<span class="author-2165680 font-size-3">如果<span class="author-150938 font-size-3">王思聪创业成功了我并不会觉得他有什么特别了不起。我更认同的是“挫折让人成长”。 创业之所<span class="author-2165680 font-size-3">以<span class="author-150938 font-size-3">迷人是因为它有太多<span class="author-2165680 font-size-3">挫折要经历<span class="author-150938 font-size-3">，但是，你真的能够顺利的<span class="author-2165680 font-size-3">解决所有问题吗<span class="author-150938 font-size-3">？</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></div>
+<div class="gutter-author-150938 locate lineguid-D1wfMAgwkes1haEN text-indent" data-author-name="Jesse">
+<h1 id="magicdomid12" class="gutter-author-150938 heading-2 locate lineguid-qE4wyEihFgLc9Vvn" data-author-name="Jesse"><span class="author-150938">把别人的路走的更漂亮<span class="author-2165680">也<span class="author-150938">是一种选择</span></span></span></h1>
+<div id="magicdomid13" class="gutter-author-150938 locate lineguid-RLOjhFDOHIikLzoM text-indent" data-author-name="Jesse"><span class="author-150938">圈子里面有另外一位90后小哥，大学在阿里实习做前端，毕业之后转正，一路在阿里成长。看起来是一个中规中矩的套路，毋庸置疑的是阿里包括很多一线的互联网公司充斥着这样的人，但是在2〜3年能成长为对行业有影响力的人寥寥无几。90后小哥算一个，这和天份<span class="author-2165680 font-size-3">、<span class="author-150938">勤奋<span class="author-2165680">还有<span class="author-150938">选择有关。</span></span></span></span></span></div>
+<div id="magicdomid14">&nbsp;</div>
+<div id="magicdomid15" class="gutter-author-150938 locate lineguid-n0SbeWiJ5KN9szFE text-indent" data-author-name="Jesse"><span class="author-150938">如果<span class="author-2165680">让这个<span class="author-150938">男生毕业之后进入一家快速发展的公司跟着公司一起成长，而不是自己去做CEO，那么现在<span class="author-2165680">他的<span class="author-150938">情况会是什么样子？</span></span></span></span></span></div>
+<div id="magicdomid16">&nbsp;</div>
+<div id="magicdomid17" class="gutter-author-150938 locate lineguid-ZKRzeoFrWCq0J9lr text-indent" data-author-name="Jesse"><span class="author-150938">选择是一件很有意思的事情<span class="author-2165680">。<span class="author-150938">每次你的选择都只有一次机会，不可能重来，如果你意识到每一次的选择都会改变你以后的人生轨迹，你还会轻易的做决定吗？<span class="author-150938 font-color-15">我们的理性或者尝试理性的甚至有能力去做理性的决定吗？<span class="author-150938">&nbsp;这两个问题其实是矛盾的，因为我们需要不停的选择<span class="author-2165680 font-size-3">、<span class="author-150938">尝试并进行校正之后才能做出适合自己的选择。到最后才能比较容易的做出理性并正确的选择。</span></span></span></span></span></span></span></div>
+<div id="magicdomid18">&nbsp;</div>
+<div id="magicdomid19" class="gutter-author-150938 locate lineguid-dLuj6CoaZHj8cKh6 text-indent" data-author-name="Jesse"><span class="author-150938 font-color-38 font-size-3">大多数时候，我们之所以会做出我们没能坚持住的事情<span class="author-2165680 font-color-38 font-size-3">，<span class="author-150938 font-color-38 font-size-3">皆是源于我们对于自己以及当下环境的了解还不够深刻，而多数是因为对自己的了解还不够。</span></span></span></div>
+<p>&nbsp;</p>
+<h1 id="magicdomid20" class="gutter-author-150938 heading-2 locate lineguid-cT4JktdTRL7EcHgX" data-author-name="Jesse"><span class="author-150938">平凡人如何走出“不平凡”<span class="author-2165680">的<span class="author-150938">人生轨迹</span></span></span></h1>
+<div id="magicdomid21" class="gutter-author-150938 locate lineguid-Fn4rhDIlY9XGw13i text-indent" data-author-name="Jesse"><span class="author-150938">我们中的绝大多数人都是平凡人，在智商，毅力和处事的方法上来说都差不多。可能是使用的方法和接受的引导不同而已。在我看来，不管是在任何行业做任何事情，如果需要有所造诣，都必须要经历下面的四个阶段，<span class="author-2165680">也<span class="author-150938">包括创业本身。</span></span></span></div>
+<div id="magicdomid22">&nbsp;</div>
+<h2 id="magicdomid23" class="gutter-author-150938 heading-1 locate lineguid-qxqLY4Hs56yxnijh" data-author-name="Jesse"><span class="author-150938 font-size-3"><span>新手</span></span></h2>
+<div id="magicdomid24" class="gutter-author-150938 locate lineguid-sDnbEA7wn9SCAyCY text-indent" data-author-name="Jesse"><span class="author-150938">“万事开头难“ ，如果你想要做好一件事，它会比你想象的复杂<span class="author-2165680">很<span class="author-150938">多。需要很多的实践总结不断的学习，才能应付自如。这个阶段有一个在行业内非常有经验的导师，非常重要。多听过来人的话是没错的。</span></span></span></div>
+<h2 id="magicdomid25" class="gutter-author-150938 heading-1 locate lineguid-PEZyy5LRiCon662x" data-author-name="Jesse"><span class="author-150938 font-size-3"><span>熟手</span></span></h2>
+<div id="magicdomid26" class="gutter-author-150938 locate lineguid-Jl5LjkMGAGQMdyWe text-indent" data-author-name="Jesse"><span class="author-150938">有没有人在第一个阶段就放弃的？ 就是那些因为觉得苦、累、难而选择换一件事情来做的人。创业就很典型，很多人第一次创业没有任何的积累，一切都靠摸着石头过河。又<span class="author-2165680">做着<span class="author-150938">最苦、最难、最累的事情，放弃的人也就特别多。</span></span></span></div>
+<div id="magicdomid27">&nbsp;</div>
+<div id="magicdomid28" class="gutter-author-150938 locate lineguid-dMrY3mH3Pwvu3mnP text-indent" data-author-name="Jesse"><span class="author-150938">如果跨过新手，<span class="author-2165680 font-size-3">在你的领域<span class="author-150938">成为熟手<span class="author-2165680">，<span class="author-150938">相当于掌握了应对和解决大多数问题的方法以及规则。就算是没有遇到<span class="author-2165680">过<span class="author-150938">的问题，也能<span class="author-2165680">凭借经验有路所寻<span class="author-150938">。</span></span></span></span></span></span></span></span></span></div>
+<div id="magicdomid29">&nbsp;</div>
+<div id="magicdomid30" class="gutter-author-150938 locate lineguid-cfIgt1nY3kQOUadD text-indent" data-author-name="Jesse"><span class="author-150938">如果没有新挑战，此时<span class="author-2165680">也<span class="author-150938">容易进入舒适区。</span></span></span></div>
+<h2 id="magicdomid31" class="gutter-author-150938 heading-1 locate lineguid-JH8AmsfLPKe6Rqu3" data-author-name="Jesse"><span class="author-150938 font-size-3"><span>专家</span></span></h2>
+<div id="magicdomid32" class="gutter-author-150938 locate lineguid-uTr0BoNdQ3cFEiwX text-indent" data-author-name="Jesse"><span class="author-150938">从一个阶段跨到另一个阶段都会是一个坎。比如有些人在成<span class="author-2165680">为<span class="author-150938">有经验的熟手之后，就停止向上发展了。<span class="author-2165680">最多<span class="author-150938">换一个更好的环境，薪资更高的地方做同样的事情，就把自己放到一个温床，最终是非常容易被行业淘汰的。 在变成熟手之后就容易进入舒适区，<span class="author-2165680">但是想<span class="author-150938">再往上又会是一个瓶颈。此时需要结合自身的特点和优势，找到属于自己的方向。</span></span></span></span></span></span></span></div>
+<div id="magicdomid33">&nbsp;</div>
+<div id="magicdomid34" class="gutter-author-150938 locate lineguid-q44AZpEbCTFnrDaw text-indent" data-author-name="Jesse"><span class="author-150938">专家与熟手的区别：</span></div>
+<div id="magicdomid35" class="gutter-author-150938 list-div locate lineguid-rqSM81IuN5bHZuPc" data-author-name="Jesse">
+<ul class="list-bullet1">
+<li><span class="author-150938 font-size-3">带领团队，培育新人</span></li>
+</ul>
+</div>
+<div id="magicdomid36" class="gutter-author-150938 list-div locate lineguid-5cyg6c5W5NoqUHlX" data-author-name="Jesse">
+<ul class="list-bullet1">
+<li><span class="author-150938 font-size-3">开始建立自己的影响力</span></li>
+</ul>
+</div>
+<div id="magicdomid37" class="gutter-author-150938 list-div locate lineguid-Yw5w4tGUaKzRp7cV" data-author-name="Jesse">
+<ul class="list-bullet1">
+<li><span class="author-150938">成为团队中的leader，找那些最难最有挑战的事情去做，<span class="author-150938 font-color-14">冲在最前面<span class="author-2165680 font-color-14">。</span></span></span></li>
+</ul>
+</div>
+<div id="magicdomid38" class="gutter-author-150938 list-div locate lineguid-8R3S6S3kHE3Hn1Yi" data-author-name="Jesse">
+<ul class="list-bullet1">
+<li><span class="author-150938">将自己所在的领域知识进行总结，并与行业领先的水平对比<span class="author-2165680">并<span class="author-150938">靠拢</span></span></span></li>
+</ul>
+</div>
+<div id="magicdomid39" class="gutter-author-150938 list-div locate lineguid-QFIdIQDh6ZcSU3LU" data-author-name="Jesse">
+<ul class="list-bullet1">
+<li><span class="author-150938">全面优化自己的处事方法、技能，提<span class="author-2165680">高<span class="author-150938">效率</span></span></span></li>
+</ul>
+</div>
+<div id="magicdomid40" class="gutter-author-150938 list-div locate lineguid-ZwJzEqkt1UFxP8kt" data-author-name="Jesse">
+<ul class="list-bullet1">
+<li><span class="author-150938">......</span></li>
+</ul>
+</div>
+<h2 id="magicdomid41" class="gutter-author-150938 heading-1 locate lineguid-YBLVf4onkcf0YZuO" data-author-name="Jesse"><span class="author-150938">大师</span></h2>
+<div id="magicdomid42" class="gutter-author-150938 locate lineguid-VlnjYJ5viChoYgAG text-indent" data-author-name="Jesse"><span class="author-150938">专家是那些在专业领域非常出色的人，他们最终都会成为企业的高管以及核心人物。我所理解的大师是那些为行业作出贡献并推动整个行业发展的人。</span></div>
+<div id="magicdomid43">&nbsp;</div>
+<div id="magicdomid44" class="gutter-author-150938 locate lineguid-gSXMolnFWOJVKlH8 text-indent" data-author-name="Jesse"><span class="author-150938">用几句话来形容：</span></div>
+<div id="magicdomid45" class="gutter-author-150938 list-div locate lineguid-oQ1BTJCpuDgcj3G7" data-author-name="Jesse">
+<ul class="list-bullet1">
+<li><span class="author-150938">方方面面追求极致</span></li>
+</ul>
+</div>
+<div id="magicdomid46" class="gutter-author-150938 list-div locate lineguid-QnjOyzpNE7aVRy9j" data-author-name="Jesse">
+<ul class="list-bullet1">
+<li><span class="author-150938">用作品打动人，影响人</span></li>
+</ul>
+</div>
+<div id="magicdomid47" class="gutter-author-150938 list-div locate lineguid-DjONQy2Jkc0cHXOo" data-author-name="Jesse">
+<ul class="list-bullet1">
+<li><span class="author-150938">工艺改造、提升（为行业带来新的方法论，以及工具）</span></li>
+</ul>
+</div>
+<div id="magicdomid48" class="gutter-author-150938 list-div locate lineguid-WIpw5ijPdqgcP6WN" data-author-name="Jesse">
+<ul class="list-bullet1">
+<li><span class="author-150938">行业影响力</span></li>
+</ul>
+</div>
+<div id="magicdomid49" class="gutter-author-150938 locate lineguid-OniVRwkbKosi2Zdy text-indent" data-author-name="Jesse"><span class="author-150938">以上几个阶段，每个人能够经历到哪个阶段，分别在每个阶段花多长时间？是一个很难有定论的问题，并且也不一定是按照顺序全部经历。对于大多数人来说要做到以上三段并不难，只要认真、专注、持续、虚心它就一定会到来。</span></div>
+<div id="magicdomid50">&nbsp;</div>
+<div id="magicdomid51" class="gutter-author-150938 locate lineguid-aqZZK8iw0qGf9dzT text-indent" data-author-name="Jesse"><span class="author-150938 u"><span style="text-decoration: underline">放眼一看，</span><span class="author-2165680 u"><span style="text-decoration: underline">说来容易</span><span class="author-150938 u"><span style="text-decoration: underline">，能做到的人并不多。为什么？</span></span></span></span></div>
+<div class="gutter-author-150938 locate lineguid-aqZZK8iw0qGf9dzT text-indent" data-author-name="Jesse">&nbsp;</div>
+<div class="gutter-author-150938 locate lineguid-aqZZK8iw0qGf9dzT text-indent" data-author-name="Jesse">
+<h1 id="magicdomid52" class="gutter-author-150938 heading-2 locate lineguid-DxlnZJsOUUtZfRRx" data-author-name="Jesse"><span class="author-150938 font-color-12 font-size-3"><span style="color: rgba(43, 43, 43, 1)"><span>自己创业与加入创业公司</span></span></span></h1>
+<div id="magicdomid53" class="gutter-author-150938 locate lineguid-GsW7IuymZaeeNwRz text-indent" data-author-name="Jesse"><span class="author-150938">创业路上所遇到的困难是前所未有的，如果未能成功走到最后，则要自己承担时间和经济上的损失包括机会成本。如果实在是有自己的创业梦想去实现，但是在还没有准备好之前倒是可以进入一家初创公司，在一定的安全边际之内进行尝试。&nbsp;</span></div>
+<div id="magicdomid54" class="gutter-author-150938 locate lineguid-i8pStGK1QRzIPSR9 text-indent" data-author-name="Jesse"><span class="author-150938">如果说产品经理是CEO的预备班，那么进入初创公司可以说是在拿着工资去做创业实践。</span></div>
+<div class="gutter-author-150938 locate lineguid-i8pStGK1QRzIPSR9 text-indent" data-author-name="Jesse">&nbsp;</div>
+<h1 id="magicdomid55" class="font-color-12 font-size-3 gutter-author-150938 heading-2 locate lineguid-AnbIPcgN8t5NIvhU" data-author-name="Jesse"><span class="author-150938 font-color-12 font-size-3"><span style="color: rgba(43, 43, 43, 1)"><span>什么时候加入创业公司</span></span></span></h1>
+<div id="magicdomid56" class="gutter-author-150938 locate lineguid-5xEhDPmjmfrRCrMA text-indent" data-author-name="Jesse"><span class="author-150938">我是平凡人中的一个，08年加入<span class="author-2165680">“<span class="author-150938">报喜<span class="author-2165680">”<span class="author-150938">旗下的一家独立b2c电商网站，几乎与<span class="author-2165680">“<span class="author-150938">凡客<span class="author-2165680">”<span class="author-150938">同时起步。只是当<span class="author-2165680">“<span class="author-150938">凡客<span class="author-2165680">”<span class="author-150938">如日中天的时候，我们由于集团不再投入而关闭<span class="author-2165680">，<span class="author-150938">后来带领中国的团队负责微软全球在线商城<span class="author-2165680">。<span class="author-150938">也是在那里<span class="author-2165680">，<span class="author-150938">技术和管理能力都得到了很大的提升，并在那个时候写了一些关于.NET的技术文章得已在圈子内形成了一定的影响力。在此以前我都没有想过会加入一家创业公司。</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></div>
+<div id="magicdomid57">&nbsp;</div>
+<div id="magicdomid58" class="gutter-author-150938 locate lineguid-Slg5tD8S42UYfSOC text-indent" data-author-name="Jesse"><span class="author-150938 font-size-3">直到后来，14年到15<span class="author-2165680 font-size-3">年<span class="author-150938 font-size-3">和“创业”做了一些接触，参与了一些创业周未和一些线下活动。我看到了这些团队里很<span class="author-2165680 font-size-3">多<span class="author-150938 font-size-3">闪耀的东西<span class="author-2165680 font-size-3">：<span class="author-150938 font-size-3">激情、活力和创新。 而这些正好是很多大外企里缺少的。创业公司快速发展的节奏<span class="author-2165680 font-size-3">，<span class="author-150938 font-size-3">可以让每个人都有机会<span class="author-2165680 font-size-3">得以<span class="author-150938 font-size-3">快速成长。</span></span></span></span></span></span></span></span></span></span></span></div>
+<div id="magicdomid59" class="gutter-author-150938" data-author-name="Jesse">&nbsp;</div>
+<div id="magicdomid60" class="gutter-author-150938 locate lineguid-Atlflr9YWk8valcG text-indent" data-author-name="Jesse"><span class="author-150938 font-size-3">08年那个<span class="author-2165680 font-size-3">时<span class="author-150938 font-size-3">段的创业公司<span class="author-2165680 font-size-3">，<span class="author-150938 font-size-3">大多<span class="author-2165680 font-size-3">都是<span class="author-150938 font-size-3">带着传统公司味道的创新。<span class="author-2165680 font-size-3">现<span class="author-150938 font-size-3">今，开放、透明、自由<span class="author-2165680 font-size-3">从<span class="author-150938 font-size-3">一开始就植根在<span class="author-2165680 font-size-3">部分<span class="author-150938 font-size-3">公司文化里。</span></span></span></span></span></span></span></span></span></span></span></span></span></div>
+<div id="magicdomid61">&nbsp;</div>
+<div id="magicdomid62" class="gutter-author-150938 locate lineguid-RhhdYkbo39FTcFLr text-indent" data-author-name="Jesse"><span class="author-150938 u"><span style="text-decoration: underline">保持开放的心态，不带偏见的去尝试一切可以接触到的，甚至是你之前认为自己完全不可能接受的东西，有可能</span><span class="author-2165680 u"><span style="text-decoration: underline">才</span><span class="author-150938 u"><span style="text-decoration: underline">最适合</span><span class="author-2165680 font-size-3 u"><span><span style="text-decoration: underline">现在的</span></span><span class="author-150938 u"><span style="text-decoration: underline">你。</span></span></span></span></span></span></div>
+<div id="magicdomid63" class="gutter-author-150938 text-indent" data-author-name="Jesse">
+<h1 id="magicdomid64" class="gutter-author-150938 heading-2 locate lineguid-Ls3gX73uJm6OL0Gr" data-author-name="Jesse"><span class="author-150938">&nbsp;加入什么样的创业公司？</span></h1>
+<div id="magicdomid65" class="gutter-author-150938 locate lineguid-DxkH1nucwfzfyHmN text-indent" data-author-name="Jesse"><span class="author-150938">到现在为止我已经<span class="author-2165680">待<span class="author-150938">了三家创业公司，也尝试过自己创业。</span></span></span></div>
+<div id="magicdomid66" class="gutter-author-150938 locate lineguid-eZSlS1WyXlGj7KIz text-indent" data-author-name="Jesse"><span class="author-150938">第一家是受朋友邀请去杭州一家智能家居的创业公司做技术负责人，因为文化不同<span class="author-2165680">，<span class="author-150938">三个星期之后离开。</span></span></span></div>
+<div id="magicdomid67" class="gutter-author-150938 locate lineguid-x7y1CnTFKKDPouSV text-indent" data-author-name="Jesse"><span class="author-150938">第二家是之前的“明星”创业公司，担任架构部的开发经理，最终因为公司倒闭而离开。</span></div>
+<div id="magicdomid68" class="gutter-author-150938 locate lineguid-uoXpHtehe7vrUMd7 text-indent" data-author-name="Jesse"><span class="author-150938">第三家就是现在所在的公司。</span></div>
+<div id="magicdomid69">&nbsp;</div>
+<div id="magicdomid70" class="gutter-author-150938 locate lineguid-8XLwgNlXU9d8OQg3 text-indent" data-author-name="Jesse"><span class="author-150938">我依然对加入创业公司保持谨慎的态度，如果你真的要去创业公司<span class="author-2165680">，<span class="author-150938">要多考察一下这家公司的情况。</span></span></span></div>
+<div id="magicdomid71" class="gutter-author-150938" data-author-name="Jesse">&nbsp;</div>
+<h2 id="magicdomid72" class="gutter-author-150938 heading-1 locate lineguid-CQurE3pPIRYbNCrP" data-author-name="Jesse"><span class="author-150938 b">&nbsp;看风险</span></h2>
+<div id="magicdomid73" class="gutter-author-150938 locate lineguid-hw8pmtnJMsNTONuY text-indent" data-author-name="Jesse"><span class="author-150938">天使轮的创业公司还是很容易死掉的，并且处于创业的初期是属于风险和困难都最大的那一类型的公司。A-B轮之间处于一个调整期，由极速发展业务会慢慢转向流程、规范化，而C轮以后的公司基本上整体文化，各大部门老大，都已经确定下来，去了之后搬砖的可能性还是很大的，只不过上升空间会比那些发展缓慢的外企、传统公司好一些。</span></div>
+<div id="magicdomid74">&nbsp;</div>
+<h2 id="magicdomid75" class="gutter-author-150938 heading-1 locate lineguid-kBSCkgDbpa1UyRYs" data-author-name="Jesse"><span class="author-150938 b">&nbsp;看背景</span></h2>
+<div id="magicdomid76" class="gutter-author-150938 locate lineguid-mBsOKfBS8HMMFryz text-indent" data-author-name="Jesse"><span class="author-150938">这个背景非常的微秒，背景太多高层之间的方向容易混乱。背景如果来自于传统的公司，就要具体考察一下公司的文化。背景如果太强，需要看一下公司的团队是否能够保持艰苦奋斗的精神。如果没有背景那就看看CEO和初创团队是否有真能力和足够勤奋。</span></div>
+<h2 id="magicdomid77">&nbsp;</h2>
+<h2 id="magicdomid78" class="gutter-author-150938 heading-1 locate lineguid-jOlcyHFA6o9uZIHJ" data-author-name="Jesse"><span class="author-150938 b">&nbsp;看文化</span></h2>
+<div id="magicdomid79" class="gutter-author-150938 locate lineguid-8RlDpVprpSnafEgz text-indent" data-author-name="Jesse"><span class="author-150938">创业公司吸引人<span class="author-2165680">的<span class="author-150938">很大原因之一，是因为它大多有着一套公平、透明的机制，至少不会埋没有能力的人和真正努力进取的人。如果这个保证不了，那基本上也就很难留住人。</span></span></span></div>
+<div id="magicdomid80">&nbsp;</div>
+<div id="magicdomid81" class="gutter-author-150938 heading-1 locate lineguid-26iilaLMLclngjL8" data-author-name="Jesse"><span class="author-150938 b">&nbsp;到一线去<span class="author-2165680 b">，<span class="author-150938 b">到困难最多的地方去</span></span></span></div>
+<div id="magicdomid82" class="gutter-author-150938 locate lineguid-DvWzrMKvFDkHgksY text-indent" data-author-name="Jesse"><span class="author-150938">在加入现在公司之前，同时还有国内一家旅游OTA准上市公司二级事业部技术负责人的offer。这个团队最开始属于创新中心的孵化项目。随着业务的发展，开发、测试以及前后端人员<span class="author-150938 font-color-12 font-size-3">逐渐接近30人。从薪资、 稳定性、以及预期回报的成功概率、甚至所能够拿到的资源上来讲它都是有明显优势的。那我为什么要选现在的公司？</span></span></div>
+<div id="magicdomid83" class="font-color-12 gutter-author-150938" data-author-name="Jesse">&nbsp;</div>
+<h2 id="magicdomid84" class="font-color-12 gutter-author-150938 heading-1 locate lineguid-AFdRVrmEDG0M8i5u" data-author-name="Jesse"><span class="author-150938 b">&nbsp;最多实践的地方</span></h2>
+<div id="magicdomid85" class="gutter-author-150938 locate lineguid-6HRIVmRi1TH8vsxM text-indent" data-author-name="Jesse"><span class="author-150938">可以说创业公司是严重缺少人才的地方，即使你在某些方面不是很成熟，只要你有想法，都是有可能获得实践机会的。我看到仅毕业两年的女生，她们是设计师，但是她们却承担着用户调研，策划，项目推进上线，上线反馈收集总结等等事情。我看到品牌的同事在负责商城的收入，我看到对数据营销感兴趣的同学在研究增长并做实验。 你想给用户创造惊喜？ 那就去轮岗客服吧，在你开心用户<span class="author-2165680">也<span class="author-150938">开心的时候，给用户随便送点优惠券或者免费产品<span class="author-2165680">吧<span class="author-150938">。</span></span></span></span></span></div>
+<div id="magicdomid86">&nbsp;</div>
+<div id="magicdomid87" class="gutter-author-150938 locate lineguid-RadBwad0hXi8dNOD text-indent" data-author-name="Jesse"><span class="author-150938">而我，在实践着如何在资源不足，同时业务快速发展的同时逐步实现技术架构的升级以及技术团队的升级。之所有不考虑准上市公司也是因为他们的技术架构以及组织架构、文化等这些都已经成型。比起在一个成型、稳定的架构之上添砖加瓦，更吸引我的是在一团乱麻中找到联系进而重构一个平台。</span></div>
+</div>
+</div>
+<p><span class="author-150938 font-size-3">&nbsp;</span></p>
+<div id="magicdomid88"><br class="Apple-interchange-newline"><br></div>
+<div id="magicdomid89">&nbsp;</div>
+<div id="magicdomid90" class="gutter-author-150938 line-center locate lineguid-QwtHuZKvJnzrQAKG" data-author-name="Jesse"><span class="author-150938 upload-image img-e5XYq6N3pOTEJ2Ye image-width-289 image-height-114"><img src="https://dn-shimo-image.qbox.me/1ujPw8m49ssgmsM2/image.png!thumbnail" alt="" width="421" height="166"></span></div>
+<div id="magicdomid91">&nbsp;</div>
+<div id="magicdomid92" class="line-bold gutter-author-150938 heading-1 locate lineguid-3z6YfEUlj6ZIeDYQ" data-author-name="Jesse"><span class="author-150938 b">&nbsp;最考验解决问题能力的地方</span></div>
+<div id="magicdomid93" class="gutter-author-150938 locate lineguid-BQNqoH5dxmvyXJXh text-indent" data-author-name="Jesse"><span class="author-150938">在创业公司最不缺的就是发现问题的人，产品上的问题，团队上的问题，市场的问题，甚至商业模式的问题和CEO的问题。所以我们将“办法总比问题多”列为企业slogan。如果你站在一个公司生存的角度去想问题，就会发现有现在的问题（比如产品、运营的）以及发展中的问题（比如技术框架健壮性以及团队扩展性的问题）甚至很长远的问题（我们如何建立核心竞争力，让对手永远无法赶超我们？）</span></div>
+<div id="magicdomid94">&nbsp;</div>
+<div id="magicdomid95" class="gutter-author-150938 locate lineguid-9wkt9oTLcd1Iuxfj text-indent" data-author-name="Jesse"><span class="author-150938">那么我们怎么去解决？没有人可以给你答案，我们只有走过去才知道。所以这段时间的经验才会变得有成倍的价值。</span></div>
+<div id="magicdomid96">&nbsp;</div>
+<div id="magicdomid97" class="gutter-author-150938 heading-1 locate lineguid-HOpH5XLlHOzIn9lZ" data-author-name="Jesse"><span class="author-150938 b">&nbsp;需要不断转换思路的地方</span></div>
+<div id="magicdomid98" class="gutter-author-150938 locate lineguid-4Ef4uCt5tfM92E74 text-indent" data-author-name="Jesse"><span class="author-150938">之前我们在别的地方用过的方法已经不行了，几个月前我们在这里用过的方法也可能不行了。比如要从一堆问题中找到第一个能够快速解决并能带来最大回报的问题是哪一个？最近看到一个挺有意思的概念“双环学习”。</span></div>
+<div id="magicdomid99">&nbsp;</div>
+<div id="magicdomid100" class="gutter-author-150938 line-center locate lineguid-ocXcWYJdXiGHI228" data-author-name="Jesse"><span class="author-150938 upload-image img-rRvafyysEt7EWONP image-width-329 image-height-178"><img src="https://dn-shimo-image.qbox.me/TibMl5hu5l8A7IR7/image.png!thumbnail" alt="" width="415" height="225"></span></div>
+<div id="magicdomid101">&nbsp;</div>
+<div id="magicdomid102" class="gutter-author-150938 locate lineguid-WMSgfuKjKNz9yfm2 text-indent" data-author-name="Jesse"><span class="author-150938 font-size-3 link-block  url-mqBLDRE5apnLqUc8  url"><span><a href="http://baike.baidu.com/view/2132176.htm">双环学习</a></span><span class="author-150938 font-size-3">是不同层次的问题解决逻辑。对行动背后的想法加以检视，反思我们看问题的心智模式，进而才能采取真正有效的行动。当发现错误时，其改正方法包括对组织目标，政策和常规程序的修改。双环学习向组织中根深蒂固的观念规范提出质疑挑战，有利于人们提出与以往不同的问题解决办法，并获得巨大的飞跃。</span></span></div>
+<div id="magicdomid103">&nbsp;</div>
+<div id="magicdomid104" class="gutter-author-150938 locate lineguid-QBkj3StWEWcacaWh text-indent" data-author-name="Jesse"><span class="author-150938">而这个思路的转换就发生在“双环学习”那里，<span class="author-150938 u"><span style="text-decoration: underline">当一种方法解决不了问题或者解决的不是那么好的时候，我们就需要对问题的根源进行反思，找到更合适、更有效的办法。</span></span></span></div>
+<div id="magicdomid105" class="line-bold gutter-author-150938 heading-1 locate lineguid-jgBHEilU5lnUNVUC" data-author-name="Jesse"><span class="author-150938 b font-size-3">&nbsp;不能停止学习的地方</span></div>
+<div id="magicdomid106" class="gutter-author-150938 locate lineguid-G6YHp5z5R0AD2gdL text-indent" data-author-name="Jesse"><span class="author-150938">我害怕温室，是的。每个人都有自己的安全边际，在达到自己的安全边际之后，就很容易进入舒适区。而这个快速发展的时间，你被时代淘汰可能只需要一年的时间。而那些最能逼迫我们成长的，就是我们遇到的那些问题和挑战。</span></div>
+<div id="magicdomid107">&nbsp;</div>
+<div id="magicdomid108" class="gutter-author-150938 line-center locate lineguid-JA9BhdZqRcM9oHAf" data-author-name="Jesse"><span class="author-150938 upload-image img-zlI6ehzpmAldbJfO image-width-393 image-height-134"><img src="https://dn-shimo-image.qbox.me/2EZHncmDsk0h5c78/image.png!thumbnail" alt="" width="422" height="144"></span></div>
+<div id="magicdomid109">&nbsp;</div>
+<h2 id="magicdomid110" class="gutter-author-150938 heading-1 locate lineguid-zuARNGEj3mxOYhYc" data-author-name="Jesse"><span class="author-150938">&nbsp;和舒服相比，开心更重要</span></h2>
+<div id="magicdomid111" class="gutter-author-150938 locate lineguid-UcWI3a9qGaq2PE4V text-indent" data-author-name="Jesse"><span class="author-150938">这是一个很年轻、自由、开放的团队。尽量少的规章制度和流程，你可以和公司的任何人坦诚沟通提出建议和问题，包括CEO。</span></div>
+<div id="magicdomid112">&nbsp;</div>
+<h2 id="magicdomid113" class="gutter-author-150938 heading-2 locate lineguid-qutTv8PfGycQQoSh" data-author-name="Jesse"><span class="author-150938">我们是谁？做了什么？以及将来要做什么？</span></h2>
+<div id="magicdomid114" class="font-color-12 font-size-3 gutter-author-150938 locate lineguid-SAhi1NIeL47nQIKL text-indent" data-author-name="Jesse"><span class="author-150938 font-color-12 font-size-3">生意专家，为实体商户提供一站式开店产品。<span class="author-150938 font-size-3">通过一个账号，管理繁琐的收银记账、客户关系、商品利润，并集成了各种创新的电子商务工具，帮助商家降低经营成本，提升顾客购物体验，增加销售收入。</span></span></div>
+<div id="magicdomid115" class="font-color-12 gutter-author-150938" data-author-name="Jesse">&nbsp;</div>
+<div id="magicdomid116" class="font-color-12 gutter-author-150938 locate lineguid-3sdiJV67fCAkgMGl text-indent" data-author-name="Jesse"><span class="author-150938">我们尽量将软件设计的简单、好用。同时集成最新的一些互联网工具（比如微信扫码支付、手机微店等），并<span class="author-150938 font-size-3">可以满足所有零售实体店和大部分服务类店铺的日常管理，比如服装店、精品店、化妆品店、鞋店、鲜花店、蛋糕店、文具店、宠物用品店、西餐厅、咖啡馆、美容美体会所、健身俱乐部等等。</span></span></div>
+<div id="magicdomid117" class="font-color-12 gutter-author-150938" data-author-name="Jesse">&nbsp;</div>
+<div id="magicdomid118" class="font-color-12 gutter-author-150938 locate lineguid-6AvE19jGuY4WnAam text-indent" data-author-name="Jesse"><span class="author-150938">未来我们还会涉及到实体店铺的供应链管理、打通B端和C端、以及第三方的开放平台和更多的开发者代享收益。</span></div>
+<div id="magicdomid119" class="font-color-12 gutter-author-150938" data-author-name="Jesse">&nbsp;</div>
+<div id="magicdomid120" class="gutter-author-150938 line-center locate lineguid-IWyW2Yxf8myzkW37" data-author-name="Jesse"><span class="author-150938 upload-image img-c3p0bKeXtmvEJaTI image-width-404 image-height-182"><img src="https://dn-shimo-image.qbox.me/BS7zagHRp5AGiZRS/image.png!thumbnail" alt="" width="468" height="211"></span></div>
+<h2 id="magicdomid121" class="gutter-author-150938 heading-1 locate lineguid-QlOJXEUhY3ncyYro" data-author-name="Jesse"><span class="author-150938 b font-size-4">&nbsp;打造工程师文化</span></h2>
+<div id="magicdomid122" class="gutter-author-150938 locate lineguid-uaCJ1JwfFuhdd9OL text-indent" data-author-name="Jesse"><span class="author-150938">如今的互联网公司甚至只要是和技术沾边的公司开口必谈极客精神、工程师文化。虽然现在资本市场已经降温，但是技术环境里面浮躁的氛围似乎还在。不信你看看到处举办的各种技术大会，讲来讲去都是那么几个话题。再加上公众号的一些推波助澜，很多人看过几篇关于淘宝、京东之类的大型网站演进方案，就觉得自己也应该是一名架构师，去处理那些高并发的问题。或者对那些新兴的技术抱有莫名的狂热，照着网官的例子写了个小Demo就说自己熟悉了。</span></div>
+<div id="magicdomid123">&nbsp;</div>
+<div id="magicdomid124" class="gutter-author-150938 locate lineguid-JsDVqk5wxD5yDhsw text-indent" data-author-name="Jesse"><span class="author-150938">在我们内部一直奉行的标准是：</span></div>
+<div id="magicdomid125" class="list-start-number1 gutter-author-150938 list-div locate lineguid-rJ7bRm5TGVAqnD7c" data-author-name="Jesse"><ol class="list-number1" start="1">
+<li><span class="author-150938">喜欢研究技术，但不盲目崇拜新技术，善于用最合适的技术来解决问题</span></li>
+
+
+
+
+
+</ol></div>
+<div id="magicdomid126" class="gutter-author-150938 list-div locate lineguid-Wo86t1HWybXSN5GZ" data-author-name="Jesse"><ol class="list-number1" start="2">
+<li><span class="author-150938">精益求精，不分大小问题，即使是一个简单的数据导入导出也可以用很优雅的方案解决</span></li>
+
+
+
+
+
+</ol></div>
+<div id="magicdomid127" class="gutter-author-150938 list-div locate lineguid-WjuUriTJuFwiTYqU" data-author-name="Jesse"><ol class="list-number1" start="3">
+<li><span class="author-150938">在研究那些另人目炫的高大上架构之前，先把代码写漂亮</span></li>
+
+
+
+
+
+</ol></div>
+<div id="magicdomid128" class="gutter-author-150938 list-div locate lineguid-CBN6DSxND0RXhStr" data-author-name="Jesse"><ol class="list-number1" start="4">
+<li><span class="author-150938">除了技术，先做到熟悉业务</span></li>
+
+
+
+
+
+</ol></div>
+<div id="magicdomid129" class="gutter-author-150938 list-div locate lineguid-2xPVJniz4Ay5Tfor" data-author-name="Jesse"><ol class="list-number1" start="5">
+<li><span class="author-150938">主动分析问题、解决问题、并善于总结和分享的习惯</span></li>
+
+
+
+
+
+</ol></div>
+<div id="magicdomid130" class="gutter-author-150938 locate lineguid-a224e766CDT16EzD text-indent" data-author-name="Jesse"><span class="author-150938">我们是一家提供SaaS服务的公司，技术将会一直是我们的核心竞争力之一。我们将努力构建一个开放、透明、公平、自由同时能够为技术社区做点事情的团队。</span></div>
+<h2 id="magicdomid131" class="gutter-author-150938 heading-1 locate lineguid-XAmxdbb0IyPUVGmT" data-author-name="Jesse"><span class="author-150938">&nbsp;想为创业的同伙做点事情</span></h2>
+<div id="magicdomid132" class="gutter-author-150938 locate lineguid-OTX9VzIAXfJFa74T text-indent" data-author-name="Jesse"><span class="author-150938">我相信有很多在创业的伙伴们和我们一样，面临着资源紧缺，业务快速发展的问题。但同时系统的稳定性以及平台的基础建设又是刻不容缓。有没有可能我们共同做一些事情？比如自动部署、统一日平台，统一任务调试，监控中心等等？这些其实我们已经做过了一些尝试，但还是需要时间来让它们更加健壮，如果你们团队也需要这些东西，不妨我们花时间交流一下(可以在公众号后台留下你的信息和联系方式）。</span></div>
+<div id="magicdomid133">&nbsp;</div>
+<h2 id="magicdomid134" class="gutter-author-150938 heading-1 locate lineguid-z7ogCO8GrzwlP6Dt" data-author-name="Jesse"><span class="author-150938">构建技术团队</span></h2>
+<div id="magicdomid135" class="gutter-author-150938 locate lineguid-sQgyughWtTRh2zlc text-indent" data-author-name="Jesse"><span class="author-150938">我们的后端用ASP.NET实现 ，正在用Web API做前后端分离和SOA化。也有一些基础服务用Node实现，移动端正在用ReactNative做重构， 在前端这块，我们也在积极的尝试React和Vue。</span></div>
+<div id="magicdomid136">&nbsp;</div>
+<div id="magicdomid137" class="gutter-author-150938 locate lineguid-msgN3mYu3GgHQSvh text-indent" data-author-name="Jesse"><span class="author-150938">生意专家正在进行B轮融资，我们需要更多志同道合的小伙伴来加入我们。牛B的.NET后端工程师、业务架构师、基础平台架构师、DevOps、前端架构师/Leader、iOS以及Android工程师，有兴趣或者有推荐的朋友公众号后台联系。薪资Open、团队年轻、办公地点在外滩SOHO。博客园这里有着很多的优秀的工程师，欢迎你们来我们公司参观，说不定你会觉得在这里写代码是件开心的事情呢。</span></div>
+<div class="gutter-author-150938 locate lineguid-msgN3mYu3GgHQSvh text-indent" data-author-name="Jesse">&nbsp;</div>
+<h4 class="gutter-author-150938 locate lineguid-msgN3mYu3GgHQSvh text-indent" data-author-name="Jesse">你也可以在我的公众号上看到这篇文章。（我会在公众号上直播这段创业的经历，包括我们技术架构以及团队的升级）</h4>
+<p>&nbsp;<img src="https://images2015.cnblogs.com/blog/554526/201611/554526-20161110095635717-804167515.png" alt="" width="324" height="324"></p>
+<div class="gutter-author-150938 locate lineguid-msgN3mYu3GgHQSvh text-indent" data-author-name="Jesse">&nbsp;</div>
+
+
+
+
+</div>
+
+
+
+
+</div>
+</div>
+<div id="MySignature"></div>
+<div class="clear"></div>
+<div id="blog_post_info_block">
+    <div id="blog_post_info"></div>
+    <div class="clear"></div>
+    <div id="post_next_prev"></div>
+</div>
+            </div>
+            <div class="postDesc">posted @ 
+<span id="post-date">2016-11-10 09:59</span>&nbsp;
+<a href="https://www.cnblogs.com/jesse2013/">腾飞（Jesse)</a>&nbsp;
+阅读(<span id="post_view_count">13620</span>)&nbsp;
+评论(<span id="post_comment_count">64</span>)&nbsp;
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=6049759" rel="nofollow">编辑</a>&nbsp;
+<a href="javascript:void(0)" onclick="AddToWz(6049759);return false;">收藏</a></div>
+        </div>
+	    
+	    
+    </div><!--end: topics 文章、评论容器-->
+</div>
+<script src="https://common.cnblogs.com/highlight/10.3.1/highlight.min.js"></script>
+<script>markdown_highlight();</script>
+<script>
+    var allowComments = true, cb_blogId = 159331, cb_blogApp = 'jesse2013', cb_blogUserGuid = 'dfb583e1-aefc-e211-8d02-90b11c0b17d6';
+    var cb_entryId = 6049759, cb_entryCreatedDate = '2016-11-10 09:59', cb_postType = 1;
+    loadViewCount(cb_entryId);
+</script><a name="!comments"></a>
+<div id="blog-comments-placeholder"></div>
+<script>
+    var commentManager = new blogCommentManager();
+    commentManager.renderComments(0);
+</script>
+<div id="comment_form" class="commentform">
+    <a name="commentform"></a>
+    <div id="divCommentShow"></div>
+    <div id="comment_nav"><span id="span_refresh_tips"></span><a href="javascript:void(0);" onclick="return RefreshCommentList();" id="lnk_RefreshComments" runat="server" clientidmode="Static">刷新评论</a><a href="#" onclick="return RefreshPage();">刷新页面</a><a href="#top">返回顶部</a></div>
+    <div id="comment_form_container"></div>
+    <div class="ad_text_commentbox" id="ad_text_under_commentbox"></div>
+    <div id="ad_t2"></div>
+    <div id="opt_under_post"></div>
+    <div id="cnblogs_c1" class="c_ad_block">
+        <div id='div-gpt-ad-1592365906576-0' style='width: 300px; height: 250px;'></div>
+    </div>
+    <div id="under_post_news"></div>
+    <div id="cnblogs_c2" class="c_ad_block">
+        <div id='div-gpt-ad-1592366332455-0' style='width: 468px; height: 60px;'></div>
+    </div>
+    <div id="under_post_kb"></div>
+    <div id="HistoryToday" class="c_ad_block"></div>
+    <script type="text/javascript">
+        fixPostBody();
+        deliverBigBanner();
+setTimeout(function() { incrementViewCount(cb_entryId); }, 50);        deliverT2();
+        deliverC1C2();
+        loadNewsAndKb();
+        loadBlogSignature();
+LoadPostCategoriesTags(cb_blogId, cb_entryId);        LoadPostInfoBlock(cb_blogId, cb_entryId, cb_blogApp, cb_blogUserGuid);
+        GetPrevNextPost(cb_entryId, cb_blogId, cb_entryCreatedDate, cb_postType);
+        loadOptUnderPost();
+        GetHistoryToday(cb_blogId, cb_blogApp, cb_entryCreatedDate);
+    </script>
+</div>
+	</div><!--end: forFlow -->
+	</div><!--end: mainContent 主体内容容器-->
+
+	<div id="sideBar">
+		<div id="sideBarMain">
+			<div id="sidebar_news" class="newsItem">
+            <script>loadBlogNews();</script>
+</div>
+<div id="sidebar_ad"></div>
+			<div id="blog-calendar" style="display:none"></div><script>loadBlogDefaultCalendar();</script>
+			
+			<div id="leftcontentcontainer">
+				<div id="blog-sidecolumn"></div>
+                    <script>loadBlogSideColumn();</script>
+			</div>
+			
+		</div><!--end: sideBarMain -->
+	</div><!--end: sideBar 侧边栏容器 -->
+	<div class="clear"></div>
+	</div><!--end: main -->
+	<div class="clear"></div>
+	<div id="footer">
+		<!--done-->
+Copyright &copy; 2020 腾飞（Jesse)
+<br /><span id="poweredby">Powered by .NET 5.0.0-rc.2.20475.5 on Kubernetes</span>
+
+
+
+	</div><!--end: footer -->
+</div><!--end: home 自定义的最大容器 -->
+
+
+    
+</body>
+</html>

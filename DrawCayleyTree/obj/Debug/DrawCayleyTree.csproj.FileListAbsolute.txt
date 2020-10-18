@@ -1,0 +1,10 @@
+C:\Users\80954\source\repos\lijialu001\.NetHomework\DrawCayleyTree\bin\Debug\DrawCayleyTree.exe.config
+C:\Users\80954\source\repos\lijialu001\.NetHomework\DrawCayleyTree\bin\Debug\DrawCayleyTree.exe
+C:\Users\80954\source\repos\lijialu001\.NetHomework\DrawCayleyTree\bin\Debug\DrawCayleyTree.pdb
+C:\Users\80954\source\repos\lijialu001\.NetHomework\DrawCayleyTree\obj\Debug\DrawCayleyTree.csprojAssemblyReference.cache
+C:\Users\80954\source\repos\lijialu001\.NetHomework\DrawCayleyTree\obj\Debug\DrawCayleyTree.Form1.resources
+C:\Users\80954\source\repos\lijialu001\.NetHomework\DrawCayleyTree\obj\Debug\DrawCayleyTree.Properties.Resources.resources
+C:\Users\80954\source\repos\lijialu001\.NetHomework\DrawCayleyTree\obj\Debug\DrawCayleyTree.csproj.GenerateResource.cache
+C:\Users\80954\source\repos\lijialu001\.NetHomework\DrawCayleyTree\obj\Debug\DrawCayleyTree.csproj.CoreCompileInputs.cache
+C:\Users\80954\source\repos\lijialu001\.NetHomework\DrawCayleyTree\obj\Debug\DrawCayleyTree.exe
+C:\Users\80954\source\repos\lijialu001\.NetHomework\DrawCayleyTree\obj\Debug\DrawCayleyTree.pdb

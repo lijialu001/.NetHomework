@@ -1,0 +1,9 @@
+C:\Users\80954\source\repos\lijialu001\.NetHomework\NetCrawler\bin\Debug\NetCrawler.exe.config
+C:\Users\80954\source\repos\lijialu001\.NetHomework\NetCrawler\bin\Debug\NetCrawler.exe
+C:\Users\80954\source\repos\lijialu001\.NetHomework\NetCrawler\bin\Debug\NetCrawler.pdb
+C:\Users\80954\source\repos\lijialu001\.NetHomework\NetCrawler\obj\Debug\NetCrawler.csprojAssemblyReference.cache
+C:\Users\80954\source\repos\lijialu001\.NetHomework\NetCrawler\obj\Debug\NetCrawler.Properties.Resources.resources
+C:\Users\80954\source\repos\lijialu001\.NetHomework\NetCrawler\obj\Debug\NetCrawler.csproj.GenerateResource.cache
+C:\Users\80954\source\repos\lijialu001\.NetHomework\NetCrawler\obj\Debug\NetCrawler.csproj.CoreCompileInputs.cache
+C:\Users\80954\source\repos\lijialu001\.NetHomework\NetCrawler\obj\Debug\NetCrawler.exe
+C:\Users\80954\source\repos\lijialu001\.NetHomework\NetCrawler\obj\Debug\NetCrawler.pdb

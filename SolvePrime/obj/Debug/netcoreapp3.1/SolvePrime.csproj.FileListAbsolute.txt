@@ -1,0 +1,13 @@
+C:\Users\80954\source\repos\lijialu001\.NetHomework\SolvePrime\bin\Debug\netcoreapp3.1\SolvePrime.exe
+C:\Users\80954\source\repos\lijialu001\.NetHomework\SolvePrime\bin\Debug\netcoreapp3.1\SolvePrime.deps.json
+C:\Users\80954\source\repos\lijialu001\.NetHomework\SolvePrime\bin\Debug\netcoreapp3.1\SolvePrime.runtimeconfig.json
+C:\Users\80954\source\repos\lijialu001\.NetHomework\SolvePrime\bin\Debug\netcoreapp3.1\SolvePrime.runtimeconfig.dev.json
+C:\Users\80954\source\repos\lijialu001\.NetHomework\SolvePrime\bin\Debug\netcoreapp3.1\SolvePrime.dll
+C:\Users\80954\source\repos\lijialu001\.NetHomework\SolvePrime\bin\Debug\netcoreapp3.1\SolvePrime.pdb
+C:\Users\80954\source\repos\lijialu001\.NetHomework\SolvePrime\obj\Debug\netcoreapp3.1\SolvePrime.csprojAssemblyReference.cache
+C:\Users\80954\source\repos\lijialu001\.NetHomework\SolvePrime\obj\Debug\netcoreapp3.1\SolvePrime.AssemblyInfoInputs.cache
+C:\Users\80954\source\repos\lijialu001\.NetHomework\SolvePrime\obj\Debug\netcoreapp3.1\SolvePrime.AssemblyInfo.cs
+C:\Users\80954\source\repos\lijialu001\.NetHomework\SolvePrime\obj\Debug\netcoreapp3.1\SolvePrime.csproj.CoreCompileInputs.cache
+C:\Users\80954\source\repos\lijialu001\.NetHomework\SolvePrime\obj\Debug\netcoreapp3.1\SolvePrime.dll
+C:\Users\80954\source\repos\lijialu001\.NetHomework\SolvePrime\obj\Debug\netcoreapp3.1\SolvePrime.pdb
+C:\Users\80954\source\repos\lijialu001\.NetHomework\SolvePrime\obj\Debug\netcoreapp3.1\SolvePrime.genruntimeconfig.cache

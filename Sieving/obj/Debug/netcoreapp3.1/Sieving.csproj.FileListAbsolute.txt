@@ -1,0 +1,12 @@
+C:\Users\80954\source\repos\lijialu001\.NetHomework\Sieving\bin\Debug\netcoreapp3.1\Sieving.exe
+C:\Users\80954\source\repos\lijialu001\.NetHomework\Sieving\bin\Debug\netcoreapp3.1\Sieving.deps.json
+C:\Users\80954\source\repos\lijialu001\.NetHomework\Sieving\bin\Debug\netcoreapp3.1\Sieving.runtimeconfig.json
+C:\Users\80954\source\repos\lijialu001\.NetHomework\Sieving\bin\Debug\netcoreapp3.1\Sieving.runtimeconfig.dev.json
+C:\Users\80954\source\repos\lijialu001\.NetHomework\Sieving\bin\Debug\netcoreapp3.1\Sieving.dll
+C:\Users\80954\source\repos\lijialu001\.NetHomework\Sieving\bin\Debug\netcoreapp3.1\Sieving.pdb
+C:\Users\80954\source\repos\lijialu001\.NetHomework\Sieving\obj\Debug\netcoreapp3.1\Sieving.AssemblyInfoInputs.cache
+C:\Users\80954\source\repos\lijialu001\.NetHomework\Sieving\obj\Debug\netcoreapp3.1\Sieving.AssemblyInfo.cs
+C:\Users\80954\source\repos\lijialu001\.NetHomework\Sieving\obj\Debug\netcoreapp3.1\Sieving.csproj.CoreCompileInputs.cache
+C:\Users\80954\source\repos\lijialu001\.NetHomework\Sieving\obj\Debug\netcoreapp3.1\Sieving.dll
+C:\Users\80954\source\repos\lijialu001\.NetHomework\Sieving\obj\Debug\netcoreapp3.1\Sieving.pdb
+C:\Users\80954\source\repos\lijialu001\.NetHomework\Sieving\obj\Debug\netcoreapp3.1\Sieving.genruntimeconfig.cache

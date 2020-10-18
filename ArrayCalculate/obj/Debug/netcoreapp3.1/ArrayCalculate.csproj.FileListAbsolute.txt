@@ -1,0 +1,12 @@
+C:\Users\80954\source\repos\lijialu001\.NetHomework\ArrayCalculate\bin\Debug\netcoreapp3.1\ArrayCalculate.exe
+C:\Users\80954\source\repos\lijialu001\.NetHomework\ArrayCalculate\bin\Debug\netcoreapp3.1\ArrayCalculate.deps.json
+C:\Users\80954\source\repos\lijialu001\.NetHomework\ArrayCalculate\bin\Debug\netcoreapp3.1\ArrayCalculate.runtimeconfig.json
+C:\Users\80954\source\repos\lijialu001\.NetHomework\ArrayCalculate\bin\Debug\netcoreapp3.1\ArrayCalculate.runtimeconfig.dev.json
+C:\Users\80954\source\repos\lijialu001\.NetHomework\ArrayCalculate\bin\Debug\netcoreapp3.1\ArrayCalculate.dll
+C:\Users\80954\source\repos\lijialu001\.NetHomework\ArrayCalculate\bin\Debug\netcoreapp3.1\ArrayCalculate.pdb
+C:\Users\80954\source\repos\lijialu001\.NetHomework\ArrayCalculate\obj\Debug\netcoreapp3.1\ArrayCalculate.AssemblyInfoInputs.cache
+C:\Users\80954\source\repos\lijialu001\.NetHomework\ArrayCalculate\obj\Debug\netcoreapp3.1\ArrayCalculate.AssemblyInfo.cs
+C:\Users\80954\source\repos\lijialu001\.NetHomework\ArrayCalculate\obj\Debug\netcoreapp3.1\ArrayCalculate.csproj.CoreCompileInputs.cache
+C:\Users\80954\source\repos\lijialu001\.NetHomework\ArrayCalculate\obj\Debug\netcoreapp3.1\ArrayCalculate.dll
+C:\Users\80954\source\repos\lijialu001\.NetHomework\ArrayCalculate\obj\Debug\netcoreapp3.1\ArrayCalculate.pdb
+C:\Users\80954\source\repos\lijialu001\.NetHomework\ArrayCalculate\obj\Debug\netcoreapp3.1\ArrayCalculate.genruntimeconfig.cache

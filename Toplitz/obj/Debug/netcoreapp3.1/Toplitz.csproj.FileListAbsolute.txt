@@ -1,0 +1,13 @@
+C:\Users\80954\source\repos\lijialu001\.NetHomework\Toplitz\bin\Debug\netcoreapp3.1\Toplitz.exe
+C:\Users\80954\source\repos\lijialu001\.NetHomework\Toplitz\bin\Debug\netcoreapp3.1\Toplitz.deps.json
+C:\Users\80954\source\repos\lijialu001\.NetHomework\Toplitz\bin\Debug\netcoreapp3.1\Toplitz.runtimeconfig.json
+C:\Users\80954\source\repos\lijialu001\.NetHomework\Toplitz\bin\Debug\netcoreapp3.1\Toplitz.runtimeconfig.dev.json
+C:\Users\80954\source\repos\lijialu001\.NetHomework\Toplitz\bin\Debug\netcoreapp3.1\Toplitz.dll
+C:\Users\80954\source\repos\lijialu001\.NetHomework\Toplitz\bin\Debug\netcoreapp3.1\Toplitz.pdb
+C:\Users\80954\source\repos\lijialu001\.NetHomework\Toplitz\obj\Debug\netcoreapp3.1\Toplitz.csprojAssemblyReference.cache
+C:\Users\80954\source\repos\lijialu001\.NetHomework\Toplitz\obj\Debug\netcoreapp3.1\Toplitz.AssemblyInfoInputs.cache
+C:\Users\80954\source\repos\lijialu001\.NetHomework\Toplitz\obj\Debug\netcoreapp3.1\Toplitz.AssemblyInfo.cs
+C:\Users\80954\source\repos\lijialu001\.NetHomework\Toplitz\obj\Debug\netcoreapp3.1\Toplitz.csproj.CoreCompileInputs.cache
+C:\Users\80954\source\repos\lijialu001\.NetHomework\Toplitz\obj\Debug\netcoreapp3.1\Toplitz.dll
+C:\Users\80954\source\repos\lijialu001\.NetHomework\Toplitz\obj\Debug\netcoreapp3.1\Toplitz.pdb
+C:\Users\80954\source\repos\lijialu001\.NetHomework\Toplitz\obj\Debug\netcoreapp3.1\Toplitz.genruntimeconfig.cache

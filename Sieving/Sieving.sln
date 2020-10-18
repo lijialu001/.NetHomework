@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sieving", "Sieving.csproj", "{268129A0-474A-4CFB-9B66-4EA648A4BB34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{268129A0-474A-4CFB-9B66-4EA648A4BB34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{268129A0-474A-4CFB-9B66-4EA648A4BB34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{268129A0-474A-4CFB-9B66-4EA648A4BB34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{268129A0-474A-4CFB-9B66-4EA648A4BB34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30A34500-DEF2-45D8-8F06-83114D95A9DB}
+	EndGlobalSection
+EndGlobal

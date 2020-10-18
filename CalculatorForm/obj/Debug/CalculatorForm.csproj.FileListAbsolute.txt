@@ -1,0 +1,9 @@
+C:\Users\80954\source\repos\lijialu001\.NetHomework\CalculatorForm\bin\Debug\CalculatorForm.exe.config
+C:\Users\80954\source\repos\lijialu001\.NetHomework\CalculatorForm\bin\Debug\CalculatorForm.exe
+C:\Users\80954\source\repos\lijialu001\.NetHomework\CalculatorForm\bin\Debug\CalculatorForm.pdb
+C:\Users\80954\source\repos\lijialu001\.NetHomework\CalculatorForm\obj\Debug\CalculatorForm.csprojAssemblyReference.cache
+C:\Users\80954\source\repos\lijialu001\.NetHomework\CalculatorForm\obj\Debug\CalculatorForm.Properties.Resources.resources
+C:\Users\80954\source\repos\lijialu001\.NetHomework\CalculatorForm\obj\Debug\CalculatorForm.csproj.GenerateResource.cache
+C:\Users\80954\source\repos\lijialu001\.NetHomework\CalculatorForm\obj\Debug\CalculatorForm.csproj.CoreCompileInputs.cache
+C:\Users\80954\source\repos\lijialu001\.NetHomework\CalculatorForm\obj\Debug\CalculatorForm.exe
+C:\Users\80954\source\repos\lijialu001\.NetHomework\CalculatorForm\obj\Debug\CalculatorForm.pdb
